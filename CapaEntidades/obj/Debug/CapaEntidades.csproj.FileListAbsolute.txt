@@ -1,0 +1,11 @@
+D:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\obj\Debug\CapaEntidades.pdb
+E:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\bin\Debug\CapaEntidades.dll
+E:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\bin\Debug\CapaEntidades.pdb
+E:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+E:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+E:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\obj\Debug\CapaEntidades.dll
+E:\FACULTAD\CERVANTES ANALISTA EN SISTEMAS\AndNuts TP\AndNuts_Sistema\CapaEntidades\obj\Debug\CapaEntidades.pdb
